@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding:0;
+}
+a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+#inicio {
+    margin-top: 64px;
+}
+.menu ul {
+    position:fixed;
+    width:100%;
+    height:64px;
+    top:0;
+    left:0;
+    margin: 0;
+    background-color: #181818;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.container {
+    width: 100%;
+    margin-bottom: 50%;
+}
